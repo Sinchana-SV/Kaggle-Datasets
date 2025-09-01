@@ -29,7 +29,7 @@ The dataset is available on **Kaggle** and includes the following columns:
 - `genre`: Genre of the content (e.g., Action, Drama, Comedy)  
 - `description`: Short description of the content  
 
-📂 **Source**: [Netflix Movies & TV Shows Dataset on Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)
+📂 **Source**: [Netflix Movies & TV Shows Dataset on Kaggle](https://www.kaggle.com/datasets/paramvir705/netflix-dataset))
 
 ---
 
