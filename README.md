@@ -1,15 +1,7 @@
 # 🎬 Netflix Movies & TV Shows EDA
 
-## 📌 Overview
-This project performs **Exploratory Data Analysis (EDA)** on the **Netflix Movies & TV Shows dataset**.  
-The primary goal of this analysis is to uncover insights about the available content on Netflix, including:
-- Genres  
-- Ratings  
-- Release years  
-- Content type (Movie or TV Show)  
-- Other factors that provide valuable insights into Netflix's catalog.  
-
-The dataset used contains a list of movies and TV shows available on Netflix.
+## ❓Problem Statement
+"The Netflix dataset provides insights into how content varies across movies and TV shows in terms of ratings, genres, release trends, duration, and global distribution. By analyzing this data, we aim to understand whether TV shows or movies perform better, which genres and countries dominate Netflix’s catalog, how content duration impacts engagement, and how release patterns have evolved over time. This analysis helps uncover viewer preferences, regional content strengths, and strategic gaps that Netflix can leverage to optimize content production, improve recommendations, and expand its global reach."
 
 ---
 
